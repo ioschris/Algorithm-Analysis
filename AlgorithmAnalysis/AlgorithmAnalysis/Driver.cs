@@ -1,16 +1,4 @@
-﻿///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//	Solution/Project:  Homework 1 - Parse Names
-//	File Name:         Driver.cs
-//	Description:       The driving class for the algorithm analysis application
-//	Course:            CSCI 2210 - Data Structures	
-//	Author:            Chris Harris, harriscr1@etsu.edu, Dept. of Computing, East Tennessee State University
-//	Created:           Thursday, February 9, 2017
-//	Copyright:         Chris Harris, 2017
-//
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
